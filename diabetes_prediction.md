@@ -6,6 +6,11 @@ Bu projede Pima Indians Diabetes veri seti kullanılarak bireylerin diyabet hast
 
 Erken diyabet riskini tespit edebilecek bir karar destek modeli oluşturmak ve farklı makine öğrenmesi algoritmalarının performanslarını karşılaştırmak.
 
+## 📊 Veri Seti
+
+- Pima Indians Diabetes Veri Seti  
+- 768 örnek, 8 tıbbi özellik  
+
 ## Veri Ön İşleme
 
 - Eksik değerler (özellikle insulin ve glucose) ortalama ile dolduruldu  
